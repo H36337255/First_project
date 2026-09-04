@@ -6,7 +6,8 @@
 > 目標平台：Windows、Steam  
 > 開發規模：單人，3–6 個月  
 > 暫定引擎：Unity 6.3 LTS、URP、C#  
-> 連線人數：2–6 人，以 4 人作為主要平衡與測試基準
+> 連線人數：2–6 人，以 4 人作為主要平衡與測試基準  
+> Repository：`https://github.com/H36337255/First_project`
 
 ## 1. 遊戲定位
 
@@ -429,7 +430,6 @@ docs: update asset naming rules
 - 美術方向：低多邊形、卡通比例或半寫實。
 - 玩家角色設定：婚禮工作人員、親友救火隊或兩者混合。
 - 是否在 MVP 加入近距離語音，或第一階段只使用外部語音測試。
-- GitHub Repository 網址與預設分支。
 - 是否採用免費／付費 Asset Store 資產，以及單項與總預算。
 
 ## 15. 後續文件
